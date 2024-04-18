@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there, I'm [Your Name](https://github.com/YourGitHubUsername).
+👋 Hi there, I'm Gaganraj.
 
 👀 I'm a frontend developer with a passion for building user-friendly and responsive web applications using React.js and other modern web technologies.
 

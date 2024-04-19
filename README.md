@@ -6,7 +6,7 @@
 
 🌱 Currently, I'm focused on expanding my knowledge and skills in frontend development, learning new frameworks, and staying updated with the latest trends in web development.
 
-💼 With over 2 years of experience in the industry, I've had the opportunity to work on diverse projects, including fintech, e-commerce, and tours & travels websites.
+💼 With over 2+ years of experience in the industry, I've had the opportunity to work on diverse projects, including fintech, e-commerce, and tours & travels websites.
 
 🔧 In my projects, I emphasize clean and maintainable code, efficient performance, and accessibility standards to ensure a seamless user experience across different devices and platforms.
 
